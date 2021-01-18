@@ -10,11 +10,11 @@
 # Contact info that will be embedded in the Let's Encrypt Certificates
 # used to secure the VPN. Be aware spammers may harvest the email
 # ITU X.509 format, C=country L=location O=organization
-X509="/C=UK/L=London/O=Fazal Majid/emailAddress=ssladministrator@majid.org"
+X509="/C=CA/L=Calgary/O=Sasa Bosnic/emailAddress=admin@spamalot.xyz"
 
 # user name for the VPN account. Feel free to leave it unchanged,
 # as it is mostly cosmetic
-USERNAME=majid
+USERNAME=sasab
 
 ########################################################################
 ########################################################################
